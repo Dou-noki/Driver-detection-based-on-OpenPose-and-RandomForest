@@ -1,4 +1,4 @@
-# 基于OpenPose的驾驶员检测系统
+# 基于OpenPose与随机森林算法的驾驶员状态检测系统
 
 >>效果展示  
 <img src="https://github.com/Dou-noki/Driver-detection-based-on-OpenPose-and-RandomForest/blob/main/image/1.jpg?raw=true" width="420" height="224"/>
@@ -19,4 +19,4 @@ model中保存了已训练好的OpenPose、dlib与随机森林的模型文件
 
 video文件夹中放置侧置摄像头视频与前置摄像头视频
 
-需要安装的库不少，建议边看报错提示，边安装。
+需要安装的库不少，建议边看报错提示边安装。
