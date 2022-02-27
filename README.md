@@ -2,8 +2,6 @@
 
 >>效果展示  
 <img src="https://github.com/Dou-noki/Driver-detection-based-on-OpenPose-and-RandomForest/blob/main/image/1.jpg?raw=true" width="420" height="224"/>
-<img src="https://github.com/Dou-noki/Driver-detection-based-on-OpenPose-and-RandomForest/blob/main/image/3.jpg?raw=true" width="420" height="224"/>
-<img src="https://github.com/Dou-noki/Driver-detection-based-on-OpenPose-and-RandomForest/blob/main/image/11.jpg?raw=true" width="420" height="224"/>
 <img src="https://github.com/Dou-noki/Driver-detection-based-on-OpenPose-and-RandomForest/blob/main/image/12.jpg?raw=true" width="420" height="224"/>
 
 main.py 为程序执行入口
