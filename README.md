@@ -8,6 +8,7 @@ main.py 为程序执行入口
 
 get_train.py 为OpenPose提取姿态特征文件，数据集来源为Kaggle网站上State Farm Distracted Driver Detection
 地址：https://www.kaggle.com/c/state-farm-distracted-driver-detection
+输出为openpose_train_data.csv文件
 
 func.py 为该程序的函数支持库，具有中文详细注释
 
