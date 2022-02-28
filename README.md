@@ -13,8 +13,9 @@ func.py 为该程序的函数支持库，具有中文详细注释
 
 val.py 、modules与datasets为Light-OpenPose支持文件
 
-model中需放置已训练好的OpenPose、dlib与随机森林的模型文件
-模型下载：百度云:
+model中需放置已训练好的OpenPose、dlib与随机森林的3个模型文件
+模型下载：
+
 链接：https://pan.baidu.com/s/1qMid2zZWTuaPjE2nIkLWkw?pwd=0vzs 
 提取码：0vzs 
 
