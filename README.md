@@ -13,8 +13,15 @@ func.py 为该程序的函数支持库，具有中文详细注释
 
 val.py 、modules与datasets为Light-OpenPose支持文件
 
-model中保存了已训练好的OpenPose、dlib与随机森林的模型文件
+model中需放置已训练好的OpenPose、dlib与随机森林的模型文件
+模型下载：百度云:
+链接：https://pan.baidu.com/s/1qMid2zZWTuaPjE2nIkLWkw?pwd=0vzs 
+提取码：0vzs 
 
 video文件夹中放置侧置摄像头视频与前置摄像头视频
 
-需要安装的库不少，建议边看报错提示边安装。
+sound文件夹中为疲劳检测语音提示音
+
+image文件中为程序运行效果
+
+需要安装的库不少，如果有缺少的，建议边看报错的提示边安装。
