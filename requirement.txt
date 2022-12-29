@@ -1,0 +1,11 @@
+opencv==4.5.5
+numpy==1.19.3
+pandas==1.1.5
+torch==1.8.1
+dlib==19.23.0
+joblib==1.0.1
+pygame==2.1.2
+imutils==0.5.4
+scipy==1.5.4
+pillow==8.2.0
+pycocotools==2.0.0
